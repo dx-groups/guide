@@ -20,7 +20,7 @@
   <link rel="apple-touch-icon" sizes="120x120" href="{{ url_for('img/apple-touch-icon-120x120.png') }}">
   <link rel="apple-touch-icon" sizes="76x76" href="{{ url_for('img/apple-touch-icon-76x76.png') }}">
   <link rel="apple-touch-icon" sizes="152x152" href="{{ url_for('img/apple-touch-icon-152x152.png') }}">
-  <link rel="shortcut icon" type="favicon" href="img/favicon.ico"/>
+  <link rel="shortcut icon" type="favicon" href="{{ url_for('img/favicon.ico') }}"/>
   <meta name="msapplication-TileColor" content="#2f83cd">
   <meta name="msapplication-TileImage" content="{{ url_for('img/mstile-144x144.png') }}">
   <!-- CSS -->
