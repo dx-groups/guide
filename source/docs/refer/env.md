@@ -69,18 +69,29 @@ $ mongo --host <host>:27017 -u <user> -p <password> <dbname>
 ### 常用命令
 
 ```bash
-> use messages
-> db.createUser({ user: ‘team’, pwd: ‘team-opinion’, roles: [{ role: 'readWrite', db: ‘team’ }] })
-> db.auth('edu', 'jc-edu-messages')
+> use <dbname>
+> db.createUser({ user: '<username>', pwd: '<password>', roles: [{ role: 'readWrite', db: '<dbname>' }] })
+> db.auth('<username>', '<password>')
 
 
 > help
 > db.help()
 > show dbs
 > show collections
-> db.messages.find()
-> db.messages.remove({})
+> db.<collectionname>.find()
+> db.<collectionname>.remove({})
 ```
+
+### 备份与恢复
+
+```bash
+# 备份
+$ mongodump -h <host> -d <dbname> -o <dbdirectory>
+
+# 恢复
+$ mongorestore -h <host> -d <dbname> --dir <dbdirectory>
+```
+
 
 ## nginx
 
