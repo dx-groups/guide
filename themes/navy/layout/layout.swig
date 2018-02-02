@@ -3,8 +3,8 @@
 {{ partial('partial/head') }}
 <body>
 <div class="root">
+  {{ partial('partial/header') }}
   <div id="container" class="container">
-    {{ partial('partial/header') }}
     {{ body }}
     {{ partial('partial/footer') }}
   </div>
