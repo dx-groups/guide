@@ -446,7 +446,7 @@ where
 
 关于  `-webkit-filter` 与 `-webkit-backdrop-filter` 的属性对比可以参考：
 
-[What's New in Safari 9.0 - backdrop-filter ](http://aotu.io/notes/2015/12/23/new-safari-9/)
+[What's New in Safari 9.0 - backdrop-filter ](http://elephant-fe/notes/2015/12/23/new-safari-9/)
 
 ### 兼容性
 
@@ -482,7 +482,7 @@ where
 
 关于 `-webkit-filter` 与 `-webkit-backdrop-filter` 的属性对比可以参考：
 
-[What's New in Safari 9.0](http://aotu.io/notes/2015/12/23/new-safari-9/)
+[What's New in Safari 9.0](http://elephant-fe/notes/2015/12/23/new-safari-9/)
 
 ### 兼容性
 
@@ -520,7 +520,7 @@ font-family: -apple-system , sans-serif;
 
 关于 `-apple-system` 更详细的介绍可以参考：
 
-[What's New in Safari 9.0](http://aotu.io/notes/2015/12/23/new-safari-9/)
+[What's New in Safari 9.0](http://elephant-fe/notes/2015/12/23/new-safari-9/)
 
 ### 兼容性
 

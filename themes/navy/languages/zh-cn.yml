@@ -24,7 +24,7 @@ sidebar:
     common: 通用
     issues: 常见问题
     project: 项目规范
-    project_git: Git 规范
+    project_git_commit: Git 规范
     project_mr: Merge Request
     html: HTML 规范
     html_code: 代码规范
@@ -51,3 +51,8 @@ sidebar:
     js: JS 规范
     js_language: 语言规范
     js_code: 代码规范
+    refer: 参考资料
+    refer_markdown: Markdown 语法
+    refer_env: 环境搭建
+    refer_git: Git 命令
+    refer_mac: Mac 操作

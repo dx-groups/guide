@@ -1,10 +1,10 @@
-title: Aotu.io - 前端代码规范
-subtitle: "Front-End Coding Guidelines"
-description: "Best Coding Guidelines For Front-End Developer."
-author: 凹凸实验室
+title: elephant-fe - 前端代码规范
+subtitle: "Front-End Guidelines"
+description: "Best Guidelines For Front-End Developer."
+author: 大象集团体验技术部
 language: zh-cn
 timezone: UTC
-url: http://guide.aotu.io/
+url: http://guide.elephant-fe/
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -19,7 +19,7 @@ per_page: 0
 theme: navy
 deploy:
   type: git
-  repo: git@github.com:o2team/guide.git
+  repo: git@github.com:elephant-fe/guide.git
   branch: gh-pages
 
 disqus_shortname:
@@ -27,8 +27,8 @@ google_analytics: UA-4910098-10
 baidu_analytics: bb4b770d7fdf4e05245cd1327199d813
 fb_admins: 100000247608790
 swiftype_key: nxhXzi1rDss_9_P_6zBa
-twitter: o2circle
-github: o2team/guide
+# twitter: o2circle
+github: elephant-fe/guide
 gh:
-  user: o2team
+  user: elephant-fe
   repo: guide

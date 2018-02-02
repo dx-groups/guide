@@ -2,7 +2,7 @@ docs:
   getting_started:
     overview: index.html
   project:
-    project_git: project/git.html
+    project_git_commit: project/git_commit.html
     project_mr: project/mr.html
   html:
     html_code: html/code.html
@@ -29,3 +29,8 @@ docs:
   js:
     js_language: js/language.html
     js_code: js/code.html
+  refer:
+    refer_markdown: refer/markdown.html
+    refer_env: refer/env.html
+    refer_git: refer/git.html
+    refer_mac: refer/mac.html
