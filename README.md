@@ -1,8 +1,8 @@
-# Front-End Guidelines
+# Team Guidelines
 
 Guidelines For Front-End Developers.
 
-前端指引，包括学习指南、规范文档等。
+团队指引，包括学习指南、规范文档等。
 
 ## Getting started
 

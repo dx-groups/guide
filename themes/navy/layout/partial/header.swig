@@ -2,7 +2,7 @@
   <header id="header" class="wrapper header">
     <div id="header-inner" class="inner header-inner">
       <h1 id="logo-wrap" class="logo-wrap">
-        <a href="{{ url_for_lang('index.html') }}" id="logo" class="logo">前端代码规范</a>
+        <a href="{{ url_for_lang('index.html') }}" id="logo" class="logo">团队规范</a>
       </h1>
       <nav id="main-nav" class="main-nav">
         <ul>

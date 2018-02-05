@@ -1,7 +1,7 @@
-title: elephant-fe - 前端代码规范
-subtitle: "Front-End Guidelines"
+title: elephant - 团队规范
+subtitle: "Team Guidelines"
 description: "Best Guidelines For Front-End Developer."
-author: 大象集团体验技术部
+author: 大象集团信息技术部
 language: zh-cn
 timezone: UTC
 url: http://guide.elephant-fe/
@@ -23,8 +23,8 @@ deploy:
   branch: gh-pages
 
 disqus_shortname:
-google_analytics: UA-4910098-10
-baidu_analytics: bb4b770d7fdf4e05245cd1327199d813
+# google_analytics: UA-4910098-10
+# baidu_analytics: bb4b770d7fdf4e05245cd1327199d813
 fb_admins: 100000247608790
 swiftype_key: nxhXzi1rDss_9_P_6zBa
 # twitter: o2circle
