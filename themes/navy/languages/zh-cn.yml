@@ -44,7 +44,7 @@ sidebar:
     css_query: 媒体查询
     css_webkit: 移动端常用私有属性
     name: 命名规范
-    name_dir: 目录命名
+    name_file: 文件命名
     name_htmlcss: HTML/CSS 命名
     name_image: 图片命名
     name_class: ClassName 命名

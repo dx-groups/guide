@@ -22,7 +22,7 @@ docs:
     css_query: css/query.html
     css_webkit: css/webkit.html
   name:
-    name_dir: name/dir.html
+    name_file: name/file.html
     name_image: name/image.html
     name_htmlcss: name/htmlcss.html
     name_class: name/classname.html

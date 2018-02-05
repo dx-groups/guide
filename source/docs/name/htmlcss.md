@@ -9,8 +9,8 @@ title: HTML/CSS文件命名
 	jdc_list.html
 	jdc_detail.html
 
-	<!-- SASS -->
-	jdc.scss
-	jdc_list.scss
-	jdc_detail.scss
+	<!-- LESS -->
+	jdc.less
+	jdc_list.less
+	jdc_detail.less
 ```
