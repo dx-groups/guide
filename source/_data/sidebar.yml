@@ -17,6 +17,7 @@ docs:
   css:
     css_code: css/code.html
     css_note: css/note.html
+    css_less: css/less.html
     css_sass: css/sass.html
     css_reset: css/reset.html
     css_query: css/query.html

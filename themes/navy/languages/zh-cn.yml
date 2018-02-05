@@ -39,6 +39,7 @@ sidebar:
     css: CSS 规范
     css_code: 代码规范
     css_note: 注释规范
+    css_less: LESS 规范
     css_sass: SASS 规范
     css_reset: 重置样式
     css_query: 媒体查询

@@ -93,7 +93,7 @@ gulp.task("rev:replace", ["rev:scripts"], function(){
                     //special files proccessed by gulp-useref
                     fileName = cfg.root + 'assets/' + fileName;
                 }else {
-                    fileName = 'assets/' + fileName; 
+                    fileName = 'assets/' + fileName;
                 }
                 return fileName;
             }
@@ -102,7 +102,7 @@ gulp.task("rev:replace", ["rev:scripts"], function(){
 });
 
 gulp.task('hexo', function(){
-   
+
    exec('hexo g');
 
 });
