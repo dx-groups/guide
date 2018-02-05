@@ -37,7 +37,7 @@
   <!-- Swiftype -->
   <meta class="swiftype" name="title" data-type="string" content="{{ page.title || config.title }}">
   <!-- Baidu Analytics -->
-  {{ partial('baidu_analytics') }}
+  <!--   {{ partial('baidu_analytics') }} -->
   <script>
     var App = {
         root:'{{ config.root }}'    
