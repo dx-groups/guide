@@ -30,6 +30,8 @@ docs:
   js:
     js_language: js/language.html
     js_code: js/code.html
+  ui:
+    ui_design: ui/design.html
   refer:
     refer_markdown: refer/markdown.html
     refer_env: refer/env.html

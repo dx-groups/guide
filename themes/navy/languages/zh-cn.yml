@@ -52,6 +52,8 @@ sidebar:
     js: JS 规范
     js_language: 语言规范
     js_code: 代码规范
+    ui: UI 规范
+    ui_design: 交互规范
     refer: 参考资料
     refer_markdown: Markdown 语法
     refer_env: 环境搭建
