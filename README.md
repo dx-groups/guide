@@ -12,18 +12,7 @@ Install dependencies:
 $ git clone https://github.com/elephant-fe/guide
 $ cd guide
 $ npm install
-```
-
-Generate:
-
-``` bash
-$ hexo g
-```
-
-Run server:
-
-``` bash
-$ hexo s --watch
+$ npm start
 ```
 
 ## 添加文件
@@ -35,16 +24,10 @@ $ hexo s --watch
 
 ## Deployment
 
-1. Generate and optimize assets
+Generate and upload assets
 
   ```bash
-  gulp
-  ```
-
-2. Deploy to the gh-pages branch
-
-  ```bash
-  hexo d -g
+  npm run deploy
   ```
 
 ## License
