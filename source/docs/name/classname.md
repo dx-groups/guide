@@ -1,8 +1,8 @@
-title: ClassName命名
+title: ClassName 命名
 ---
 
 
-ClassName的命名应该尽量精短、明确，必须以**字母开头命名**，且**全部字母为小写**，单词之间**统一使用下划线** “_” 连接
+ClassName 的命名遵循 [BEM, Block Element Modifier](http://getbem.com/) 的方式，应该尽量精短、明确，必须以 **字母开头命名**，且 **全部字母为小写**，单词之间 **统一使用下划线** “_” 连接
 
 ## 命名原则 
 

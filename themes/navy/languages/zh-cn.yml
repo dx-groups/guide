@@ -24,6 +24,7 @@ sidebar:
     common: 通用
     issues: 常见问题
     project: 项目规范
+    project_test: 测试规范
     project_git_commit: Git 规范
     project_mr: Merge Request
     html: HTML 规范

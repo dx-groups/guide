@@ -2,6 +2,7 @@ docs:
   getting_started:
     overview: index.html
   project:
+    project_test: project/test.html
     project_git_commit: project/git_commit.html
     project_mr: project/mr.html
   html:
