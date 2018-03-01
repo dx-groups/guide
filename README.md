@@ -30,6 +30,8 @@ Generate and upload assets
   npm run deploy
   ```
 
+注意： 部署时直接将文件上传到服务器，需要输入服务器密码。
+
 ## License
 
 [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
