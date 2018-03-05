@@ -42,3 +42,36 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
 {% endraw %}
 
 如果是数据块的场景，尽量使用内容式的 loading
+
+
+## 分页
+
+分页组件统一如下：
+
+- 显示数据总量
+- 指定每页可以显示多少条
+- 快速跳转至某页
+
+![page](./page.png)
+
+参考 javascript 代码如下
+
+```javascript
+const pagination = {
+  // total: parseInt(page.totalCount),
+  // pageSize: this.state.pageSize,
+  showSizeChanger: true,
+  showQuickJumper: true,
+  showTotal: total => `共 ${total} 项`,
+  pageSizeOptions: ['5', '10', '20', '50'],
+}
+```
+
+## 选择框
+
+- 状态类这种确定的字典项，不可输可选
+- 数据类的下拉框，需要和后台交互的，可输可选
+
+## 表格
+
+表格尽量不设置列宽和行高，利用 table 的自适应布局，一般都能获得不错的效果。
