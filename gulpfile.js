@@ -36,9 +36,9 @@ gulp.task('useref', ['hexo'], function(){
             return filePath.replace(dirs.public + cfg.root, dirs.public + '/');
         }
     }))
-    .pipe($.if('*.css', $.postcss([
-      cssnano()
-    ])))
+    // .pipe($.if('*.css', $.postcss([
+    //   cssnano()
+    // ])))
     .pipe($.if('*.css', $.minifyCss()))
     .pipe($.if('*.js', $.uglify()))
     .pipe($.if('*.html', $.htmlMinifier(htmlMinifierOptions)))
@@ -47,7 +47,7 @@ gulp.task('useref', ['hexo'], function(){
 
 gulp.task('rev:media', function(){
 
-    return gulp.src([dirs.fonts + '/**/*', dirs.imgs + '/**/*'], {base: dirs.public})
+    return gulp.src([dirs.fonts + '/**/*', dirs.imgs + '/**/*'])
         .pipe($.rev())
         .pipe(gulp.dest(dirs.assetsDir))
         .pipe($.rev.manifest('rev-media.json'))
@@ -73,7 +73,7 @@ gulp.task('img:min', ['rev:media'], function(){
 
     var pngquant = require('imagemin-pngquant');
 
-    return gulp.src(dirs.assetsDir + '/img/**/*', {base: dirs.assetsDir})
+    return gulp.src(dirs.assetsDir + '/img/**/*')
         .pipe($.imagemin({
             progressive: true,
             svgoPlugins: [{removeViewBox:false}],
@@ -85,7 +85,7 @@ gulp.task('img:min', ['rev:media'], function(){
 gulp.task("rev:replace", ["rev:scripts"], function(){
     var manifest = gulp.src([dirs.assetsDir + '/rev-*.json']);
 
-    return gulp.src([ dirs.public + "/**/*.html"])
+    return gulp.src([dirs.public + "/**/*.html"])
         .pipe($.revReplace({
             manifest: manifest,
             modifyReved:function(fileName){
