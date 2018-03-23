@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[elephant - 团队规范]]></title>
+  <subtitle><![CDATA[Team Guidelines]]></subtitle>
+  <link href="/guide/atom.xml" rel="self"/>
+  <link href="https://elephant-fe.github.io/guide/"/>
+  <updated>2018-02-05T06:17:27.000Z</updated>
+  <id>https://elephant-fe.github.io/guide/</id>
+  
+  <author>
+    <name><![CDATA[大象集团信息技术部]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[团队博客开张迎客]]></title>
+    <link href="https://elephant-fe.github.io/guide/news/2018/02/01/first-released/"/>
+    <id>https://elephant-fe.github.io/guide/news/2018/02/01/first-released/</id>
+    <published>2018-02-01T00:00:00.000Z</published>
+    <updated>2018-02-05T06:17:27.000Z</updated>
+    <content type="html"><![CDATA[<p>大象集团信息技术部博客开张。</p>
+<p>配色采用酱紫（Golden Purple），希望我们的团队以一种优雅的方式渐进生长，伴随着诗一般的浪漫，结出累累硕果！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>大象集团信息技术部博客开张。</p>
+<p>配色采用酱紫（Golden Purple），希望我们的团队以一种优雅的方式渐进生长，伴随着诗一般的浪漫，结出累累硕果！</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
