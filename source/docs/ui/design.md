@@ -30,7 +30,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
 这种 loading 方式适用各种场景，近乎可以作为加载的 “银弹”
 
 {% raw %}
-<iframe src="http://10.100.246.27:91/#/demo/spin" style="width: 100%; height: 80px;"></iframe>
+<iframe src="http://front-ender.me/alcat/#/demo/spin" style="width: 100%; height: 80px;"></iframe>
 {% endraw %}
 
 ### 内容式
@@ -38,7 +38,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
 当内容还在加载中时，可以用类似内容的方式展示一个占位，数据加载后过渡更为自然
 
 {% raw %}
-<iframe src="http://10.100.246.27:91/#/demo/card" style="width: 100%; height: 180px;"></iframe>
+<iframe src="http://front-ender.me/alcat/#/demo/card" style="width: 100%; height: 180px;"></iframe>
 {% endraw %}
 
 如果是数据块的场景，尽量使用内容式的 loading
