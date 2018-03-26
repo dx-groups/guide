@@ -26,7 +26,6 @@ sidebar:
     project: 项目规范
     project_test: 测试规范
     project_git_commit: Git 规范
-    project_mr: Merge Request
     html: HTML 规范
     html_code: 代码规范
     html_note: 注释规范
