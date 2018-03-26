@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://elephant-fe.github.io/guide/docs/project/git_commit.html</loc>
+    <lastmod>2018-03-26T06:04:22.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elephant-fe.github.io/guide/docs/ui/design.html</loc>
     <lastmod>2018-03-23T06:04:51.000Z</lastmod>
   </url>
@@ -32,11 +37,6 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/mac.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://elephant-fe.github.io/guide/docs/refer/git.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
@@ -57,17 +57,12 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/project/mr.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/docs/project/git_commit.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://elephant-fe.github.io/guide/news/2018/02/01/first-released/</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/markdown.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -87,7 +82,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/markdown.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/mac.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
