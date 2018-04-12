@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/project/git_commit.html</loc>
-    <lastmod>2018-03-26T06:04:22.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://elephant-fe.github.io/guide/docs/ui/design.html</loc>
-    <lastmod>2018-03-23T06:04:51.000Z</lastmod>
+    <lastmod>2018-04-12T02:37:32.000Z</lastmod>
   </url>
   
   <url>
     <loc>https://elephant-fe.github.io/guide/docs/refer/entry.html</loc>
-    <lastmod>2018-03-05T02:53:54.000Z</lastmod>
+    <lastmod>2018-04-12T02:36:07.000Z</lastmod>
   </url>
   
   <url>
     <loc>https://elephant-fe.github.io/guide/docs/project/test.html</loc>
-    <lastmod>2018-02-24T02:50:26.000Z</lastmod>
+    <lastmod>2018-03-29T15:04:09.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/project/git_commit.html</loc>
+    <lastmod>2018-03-26T06:04:22.000Z</lastmod>
   </url>
   
   <url>
