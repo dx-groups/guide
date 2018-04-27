@@ -57,13 +57,21 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
 参考 javascript 代码如下
 
 ```javascript
-const pagination = {
-  // total: parseInt(page.totalCount),
-  // pageSize: this.state.pageSize,
-  showSizeChanger: true,
-  showQuickJumper: true,
-  showTotal: total => `共 ${total} 项`,
-  pageSizeOptions: ['5', '10', '20', '50'],
+const DefaultPage = {
+  pageNo: 1,
+  records: 0,
+  pageSize: 10,
+}
+function genPagination(page = DefaultPage) {
+  return {
+    current: parseInt(page.pageNo),
+    total: parseInt(page.records),
+    pageSize: parseInt(page.pageSize),
+    showSizeChanger: true,
+    showQuickJumper: true,
+    showTotal: total => `共 ${page.records} 项`,
+    pageSizeOptions: ['5', '10', '20', '50'],
+  }
 }
 ```
 
@@ -75,6 +83,10 @@ const pagination = {
 ## 表格
 
 表格尽量不设置列宽和行高，利用 table 的自适应布局，一般都能获得不错的效果。
+
+也可根据业务场景，对某些列设置宽度，避免数据挤压的状况出现。
+
+PS. 切记为 table 设置 rowKey，一是性能上的考虑，另外也能避免一些情况下的样式错位问题（想想为什么？）
 
 ## 最小权限
 
