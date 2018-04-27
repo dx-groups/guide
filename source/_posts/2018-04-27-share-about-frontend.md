@@ -95,11 +95,11 @@ webpack - gulp 流、grunt 配置、rollup、parcel 开箱即用、browserify
 
 ### 工程化
 
-![engineer](//p7tye4kjo.bkt.clouddn.com/blog/engineer.png)
+![engineer](/guide/docs/static/engineer.png)
 
 ### 技术
 
-![technology](//p7tye4kjo.bkt.clouddn.com/blog/technology.png)
+![technology](/guide/docs/static/technology.png)
 
 ## 3. 渐进式前端框架
 
@@ -113,4 +113,4 @@ webpack - gulp 流、grunt 配置、rollup、parcel 开箱即用、browserify
 
 ## 5. 方向？
 
-![choice](//p7tye4kjo.bkt.clouddn.com/blog/choice.png)
+![choice](/guide/docs/static/choice.png)
