@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Team Guidelines]]></subtitle>
   <link href="/guide/atom.xml" rel="self"/>
   <link href="https://elephant-fe.github.io/guide/"/>
-  <updated>2018-04-27T05:38:35.000Z</updated>
+  <updated>2018-04-27T07:04:46.000Z</updated>
   <id>https://elephant-fe.github.io/guide/</id>
   
   <author>
@@ -15,42 +15,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[团队博客开张迎客]]></title>
-    <link href="https://elephant-fe.github.io/guide/news/2018/04/27/first-share/"/>
-    <id>https://elephant-fe.github.io/guide/news/2018/04/27/first-share/</id>
-    <published>2018-04-27T00:00:00.000Z</published>
-    <updated>2018-04-27T05:38:35.000Z</updated>
-    <content type="html"><![CDATA[<p>大象集团信息技术部博客开张。</p>
-<p>配色采用酱紫（Golden Purple），希望我们的团队以一种优雅的方式渐进生长，伴随着诗一般的浪漫，结出累累硕果！</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>大象集团信息技术部博客开张。</p>
-<p>配色采用酱紫（Golden Purple），希望我们的团队以一种优雅的方式渐进生长，伴随着诗一般的浪漫，结出累累硕果！</p>
-]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[L0 - 前端技术概览]]></title>
     <link href="https://elephant-fe.github.io/guide/news/2018/04/27/share-about-frontend/"/>
     <id>https://elephant-fe.github.io/guide/news/2018/04/27/share-about-frontend/</id>
     <published>2018-04-27T00:00:00.000Z</published>
-    <updated>2018-04-27T06:25:14.000Z</updated>
+    <updated>2018-04-27T07:04:46.000Z</updated>
     <content type="html"><![CDATA[<p>根据主题循序渐进如下</p>
 <h2 id="1-_做一个项目需要用到哪些技术？">1. 做一个项目需要用到哪些技术？</h2><p>附上脑暴图</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">react/rax/mirror - 框架 - angular、vue、extjs/avalon/knockjs/riot</span><br><span class="line">redux - 组件状态共享 - mobx/immer  === sub/pub, Object.defineProperty(get,<span class="built_in">set</span>)</span><br><span class="line">ant.design - material design  &lt;=  atomic design</span><br><span class="line">bootstrap</span><br><span class="line"></span><br><span class="line"><span class="built_in">history</span> - 跳转</span><br><span class="line">- 栈 (replace/push)</span><br><span class="line">- pc, 任意性</span><br><span class="line"></span><br><span class="line">less - 样式 - sass、css</span><br><span class="line">- css-modular</span><br><span class="line"></span><br><span class="line">rxjs - 流式的数据处理框架</span><br><span class="line"></span><br><span class="line">nodejs - 语言 - V8</span><br><span class="line"></span><br><span class="line">git - 版本控制，分支</span><br><span class="line"></span><br><span class="line">es678 - js promise +</span><br><span class="line">babel - pollfill - shim</span><br><span class="line"></span><br><span class="line">axios - http 请求 - ajax - xmlhttprequest - fetch</span><br><span class="line"></span><br><span class="line">typescript</span><br><span class="line">coffeescript</span><br><span class="line">elm</span><br><span class="line">haskell</span><br><span class="line"></span><br><span class="line">jslint</span><br><span class="line">eslint - 统一，语法</span><br><span class="line">stylelint</span><br><span class="line">htmllint</span><br><span class="line">editorconfig</span><br><span class="line"></span><br><span class="line">proxy - 本地代理，middleware</span><br><span class="line">xiaoyaoji - 接口定义、mock</span><br><span class="line"></span><br><span class="line">设计 =&gt; ui =&gt; 开发</span><br><span class="line">产品思想</span><br><span class="line">测试，质量</span><br><span class="line">性能</span><br><span class="line"></span><br><span class="line">沟通</span><br><span class="line">约定</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">npm - 包管理工具 vs yarn - 镜像，源，依赖关系</span><br><span class="line">- 版本</span><br><span class="line">- 缓存</span><br><span class="line">- ui</span><br><span class="line">- 串行 / 并行</span><br><span class="line"></span><br><span class="line">module.exports = </span><br><span class="line">require()</span><br><span class="line"></span><br><span class="line">import </span><br><span class="line"><span class="built_in">export</span></span><br><span class="line"></span><br><span class="line">分治  &lt;= 代码可控</span><br><span class="line"></span><br><span class="line">组件化</span><br><span class="line">模块管理工具 - commonjs/ES6 module/amd/cmd/umd/ - seajs/requirejs/</span><br><span class="line">- 业务代码</span><br><span class="line">- 框架代码</span><br><span class="line">- 懒加载</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">webpack - gulp 流、grunt 配置、rollup、parcel 开箱即用、browserify</span><br><span class="line">- treeshaking</span><br><span class="line">- <span class="built_in">source</span>-map</span><br><span class="line">- 打包 - js/css/图片/html</span><br><span class="line">- 优化 - 压缩</span><br><span class="line">        * 懒加载</span><br><span class="line">        * vendor</span><br><span class="line">        * <span class="built_in">hash</span></span><br><span class="line">        * cdn 替换</span><br><span class="line">        * ...</span><br></pre></td></tr></table></figure>
 <h2 id="2-_前端的方方面面">2. 前端的方方面面</h2><blockquote>
 <p>工程化 + 技术栈 =&gt; 架构（脚手架）</p>
 </blockquote>
-<h3 id="工程化">工程化</h3><p><img src="//p7tye4kjo.bkt.clouddn.com/blog/engineer.png" alt="engineer"></p>
-<h3 id="技术">技术</h3><p><img src="//p7tye4kjo.bkt.clouddn.com/blog/technology.png" alt="technology"></p>
+<h3 id="工程化">工程化</h3><p><img src="/guide/docs/static/engineer.png" alt="engineer"></p>
+<h3 id="技术">技术</h3><p><img src="/guide/docs/static/technology.png" alt="technology"></p>
 <h2 id="3-_渐进式前端框架">3. 渐进式前端框架</h2><blockquote>
 <p>f(state) =&gt; ui</p>
 </blockquote>
 <p>框架的取舍，<code>arthur</code> 的演进之路</p>
 <h2 id="4-_函数式编程">4. 函数式编程</h2><p><a href="www.ruanyifeng.com/blog/2015/07/monad.html">Monad</a></p>
-<h2 id="5-_方向？">5. 方向？</h2><p><img src="//p7tye4kjo.bkt.clouddn.com/blog/choice.png" alt="choice"></p>
+<h2 id="5-_方向？">5. 方向？</h2><p><img src="/guide/docs/static/choice.png" alt="choice"></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>根据主题循序渐进如下</p>
@@ -66,23 +49,6 @@
     <id>https://elephant-fe.github.io/guide/news/2018/02/01/first-released/</id>
     <published>2018-02-01T00:00:00.000Z</published>
     <updated>2018-02-05T06:17:27.000Z</updated>
-    <content type="html"><![CDATA[<p>大象集团信息技术部博客开张。</p>
-<p>配色采用酱紫（Golden Purple），希望我们的团队以一种优雅的方式渐进生长，伴随着诗一般的浪漫，结出累累硕果！</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>大象集团信息技术部博客开张。</p>
-<p>配色采用酱紫（Golden Purple），希望我们的团队以一种优雅的方式渐进生长，伴随着诗一般的浪漫，结出累累硕果！</p>
-]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[团队博客开张迎客]]></title>
-    <link href="https://elephant-fe.github.io/guide/news/2018/02/01/first-released.1/"/>
-    <id>https://elephant-fe.github.io/guide/news/2018/02/01/first-released.1/</id>
-    <published>2018-02-01T00:00:00.000Z</published>
-    <updated>2018-04-27T05:38:17.000Z</updated>
     <content type="html"><![CDATA[<p>大象集团信息技术部博客开张。</p>
 <p>配色采用酱紫（Golden Purple），希望我们的团队以一种优雅的方式渐进生长，伴随着诗一般的浪漫，结出累累硕果！</p>
 ]]></content>
