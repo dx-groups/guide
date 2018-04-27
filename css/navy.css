@@ -2629,7 +2629,7 @@ cursor: pointer-wrap {
   font-weight: bold;
   color: #722ed1;
   display: inline-block;
-  border-top: 1px solid #722ed1;
+  border-top: 1px solid #d9cecc;
   line-height: 1;
 }
 .sidebar-link,
@@ -2949,7 +2949,7 @@ a.article-title:hover {
 .article-content blockquote {
   padding: 0 20px;
   position: relative;
-  border: 1px solid #722ed1;
+  border: 1px solid #d9cecc;
   border-left: 5px solid #ddd;
 }
 .article-content blockquote footer {
@@ -2986,7 +2986,7 @@ a.article-title:hover {
 }
 .article-footer {
   margin: 1em 0;
-  border-top: 1px solid #722ed1;
+  border-top: 1px solid #d9cecc;
   text-align: center;
   color: #999;
   line-height: 1em;
@@ -3087,7 +3087,7 @@ a.article-title:hover {
   font-size: 16px;
   font-family: inherit;
   -webkit-appearance: none;
-  border: 1px solid #722ed1;
+  border: 1px solid #d9cecc;
   padding: 10px 10px;
   width: 100%;
   margin-top: 25px;
@@ -3255,7 +3255,7 @@ a.article-title:hover {
 }
 .archive-post {
   padding: 1em 0;
-  border-top: 1px solid #722ed1;
+  border-top: 1px solid #d9cecc;
 }
 .archive-post:last-child {
   padding-bottom: 40px;
