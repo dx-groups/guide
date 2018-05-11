@@ -1,6 +1,7 @@
 docs:
   getting_started:
     overview: index.html
+    pending: pending.html
   project:
     project_test: project/test.html
     project_git_commit: project/git_commit.html
