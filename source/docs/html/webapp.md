@@ -14,8 +14,7 @@ WebApp可以通过设置 meta 标签来改变页面的一些表现，有些 meta
 
 #### 通用类设置
 ```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0, 
-maximum-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
 ```	
 * width -- viewport的宽度
 * height -- viewport的高度
@@ -23,6 +22,7 @@ maximum-scale=1.0, user-scalable=no">
 * minimum-scale -- 允许用户缩放到的最小比例
 * maximum-scale -- 允许用户缩放到的最大比例
 * user-scalable -- 是否允许用户缩放
+* viewport-fit -- 可视窗口（Visual Viewport）的大小，解决 iPhone X 的安全区域
 
 #### Safari on iOS viewport
 
@@ -39,6 +39,7 @@ Setting user-scalable to no also prevents a webpage from scrolling when entering
 * minimum-scale 默认值是 0.25
 * maximum-scale 默认值是 5
 * user-scalable -- 默认值是 yes，设置 no 还可以在文本框输入文本的时候阻止页面滚动
+* viewport-fit -- 默认值是 auto
 
 	
 更多关于 Safari on iOS viewport 的设置:
