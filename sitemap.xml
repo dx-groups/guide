@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://elephant-fe.github.io/guide/docs/pending.html</loc>
+    <lastmod>2018-05-11T02:54:53.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/index.1.html</loc>
+    <lastmod>2018-05-11T02:24:09.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/html/webapp.html</loc>
+    <lastmod>2018-05-11T02:07:01.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elephant-fe.github.io/guide/news/2018/04/27/share-about-frontend/</loc>
     <lastmod>2018-04-27T07:04:46.000Z</lastmod>
   </url>
@@ -47,31 +62,6 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/env.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/docs/index.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/index.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/docs/contributing.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/docs/css/webkit.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://elephant-fe.github.io/guide/docs/name/image.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
@@ -97,12 +87,37 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/html/jdc_fd_web_final_2.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/index.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
   <url>
     <loc>https://elephant-fe.github.io/guide/news/2018/02/01/first-released/</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/env.html</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/index.html</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/html/jdc_fd_web_final_2.html</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/css/webkit.html</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/contributing.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -117,27 +132,12 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/image/quality.html</loc>
-    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/docs/image/jdc_fd_guide_image.html</loc>
-    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/docs/image/import.html</loc>
-    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://elephant-fe.github.io/guide/docs/image/format.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/html/webapp.html</loc>
+    <loc>https://elephant-fe.github.io/guide/plugins/index.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -152,7 +152,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/js/code.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -162,7 +162,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/image/quality.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -187,7 +187,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/plugins/index.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/js/code.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -202,12 +202,22 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/themes/index.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/image/import.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
   <url>
     <loc>https://elephant-fe.github.io/guide/docs/common.html</loc>
+    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/themes/index.html</loc>
+    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/image/jdc_fd_guide_image.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
