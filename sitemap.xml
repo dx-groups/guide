@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://elephant-fe.github.io/guide/docs/project/git_commit.html</loc>
+    <lastmod>2018-05-15T02:10:00.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elephant-fe.github.io/guide/docs/pending.html</loc>
     <lastmod>2018-05-11T03:01:20.000Z</lastmod>
   </url>
@@ -37,11 +42,6 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/project/git_commit.html</loc>
-    <lastmod>2018-03-26T06:04:22.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://elephant-fe.github.io/guide/docs/name/classname.html</loc>
     <lastmod>2018-02-12T08:13:26.000Z</lastmod>
   </url>
@@ -52,12 +52,12 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/mac.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/index.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/git.html</loc>
+    <loc>https://elephant-fe.github.io/guide/index.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -77,7 +77,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/markdown.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/mac.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -87,7 +87,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/index.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/git.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -97,12 +97,12 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/env.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/markdown.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/index.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/env.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
