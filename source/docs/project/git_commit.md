@@ -3,21 +3,22 @@ title: Git 规范
 
 ## 分支管理
 
-- 管理员从 `develop` 创建 feature 分支，注意此处需将该分支置为 `Protected`
+- 管理员从 `develop` 创建 feature-* 分支，注意此处需将该分支置为 `Protected`
 - 开发人员参考 【Merge Request 流程/规范】将项目 Fork 到本地，之后根据功能点提交，并发起 Merge Request
-- 相关人员（管理员、项目负责人）进行 `Code Review`，将代码合并到 feature 分支
-- 提测时，由管理员将 feature 分支合并到 `develop` 分支
-- 测试通过，将 develop 分支合并到 `master` 分支，由测试人员进行回归
+- 相关人员（管理员、项目负责人）进行 `Code Review`，将代码合并到 feature-* 分支
+- 提测时，由管理员将 feature-* 分支合并到 `develop` 分支，开始自测
+- 自测完成后，将 develop 分支合并到 `release` 分支，然后构建测试环境
+- 测试通过，将 release 分支合并到 `master` 分支，由测试人员进行回归
 - 上线时，由管理员根据上线日期添加 `Tag`，eg. '20180101'
 - 最后，管理员将 master 分支合并到 `develop`
 
 ## 线上问题修复流程
 
-- 管理员从 `master` 创建 hotfix 分支，注意此处需将该分支置为 `Protected`
+- 管理员从 `master` 创建 hotfix-* 分支，注意此处需将该分支置为 `Protected`
 - 开发人员参考 【Merge Request 流程/规范】将项目 Fork 到本地，之后根据功能点提交，并发起 Merge Request
-- 相关人员（管理员、项目负责人）进行 `Code Review`，将代码合并到 hotfix 分支
-- 提测时，直接在 hotfix 分支发版测试
-- 测试通过，将 hotfix 分支合并到 `master` 分支，由测试人员进行回归
+- 相关人员（管理员、项目负责人）进行 `Code Review`，将代码合并到 hotfix-* 分支
+- 提测时，直接在 hotfix-* 分支发版测试
+- 测试通过，将 hotfix-* 分支合并到 `master` 分支，由测试人员进行回归
 - 上线时，由管理员根据上线日期添加 `Tag`，eg. '20180101'
 - 最后，管理员将 master 分支合并到 `develop`
 
