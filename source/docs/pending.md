@@ -6,13 +6,13 @@ title: 待办
 
 ## 基础框架
 
-- Arthur 框架
+- Arthur 框架 - 徐宝石
 
 - cli 工具
 
 - 构建工具
 
-  - postcss 插件，postcss-plugin-px2rem 添加 dpx，rpx 单位支持
+  - postcss 插件，postcss-plugin-px2rem 添加 dpx，rpx 单位支持 - 孙小海
 
     `dpx` (dpr px) 这个单位, 按照 dpr 来放大 1*px, 2*px, 3*px 大小的字体，再按照屏幕dpr缩小, 这样就达到了字体不缩放, 各种屏幕的字体看起来都差不多,也与屏幕宽度无关。
 

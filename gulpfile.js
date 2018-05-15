@@ -47,7 +47,7 @@ gulp.task('useref', ['hexo'], function(){
 
 gulp.task('rev:media', function(){
 
-    return gulp.src([dirs.fonts + '/**/*', dirs.imgs + '/**/*'])
+    return gulp.src([dirs.fonts + '/**/*', dirs.imgs + '/**/*'], { base: dirs.public })
         .pipe($.rev())
         .pipe(gulp.dest(dirs.assetsDir))
         .pipe($.rev.manifest('rev-media.json'))
