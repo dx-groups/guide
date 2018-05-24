@@ -8,11 +8,9 @@
   "scripts": {
     "start": "hexo s --watch",
     "build": "hexo generate && gulp",
-    "predeploy": "npm run build",
     "deploy-back": "sh ./deploy.sh",
     "gh-pages-bak": "hexo d -g",
-    "gh-pages": "gh-pages -d public",
-    "deploy": "npm run gh-pages"
+    "pub": "gh-pages -d public"
   },
   "dependencies": {
     "cheerio": "0.19.0",
