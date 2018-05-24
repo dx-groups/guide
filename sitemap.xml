@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://elephant-fe.github.io/guide/docs/project/mobile.html</loc>
+    <lastmod>2018-05-24T05:51:25.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elephant-fe.github.io/guide/docs/pending.html</loc>
     <lastmod>2018-05-15T05:54:32.000Z</lastmod>
   </url>
@@ -52,12 +57,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/index.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/index.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/js/language.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -77,12 +77,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/mac.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/docs/js/language.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/env.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -92,17 +87,27 @@
   </url>
   
   <url>
+    <loc>https://elephant-fe.github.io/guide/docs/index.html</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elephant-fe.github.io/guide/news/2018/02/01/first-released/</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/markdown.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/mac.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/refer/env.html</loc>
+    <loc>https://elephant-fe.github.io/guide/index.html</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/refer/markdown.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -132,27 +137,17 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/image/format.html</loc>
-    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elephant-fe.github.io/guide/plugins/index.html</loc>
-    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://elephant-fe.github.io/guide/docs/issues.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/html/note.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/html/note.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -163,6 +158,11 @@
   
   <url>
     <loc>https://elephant-fe.github.io/guide/docs/image/quality.html</loc>
+    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elephant-fe.github.io/guide/docs/image/jdc_fd_guide_image.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -202,7 +202,7 @@
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/image/import.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/image/format.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -212,12 +212,17 @@
   </url>
   
   <url>
+    <loc>https://elephant-fe.github.io/guide/plugins/index.html</loc>
+    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://elephant-fe.github.io/guide/themes/index.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://elephant-fe.github.io/guide/docs/image/jdc_fd_guide_image.html</loc>
+    <loc>https://elephant-fe.github.io/guide/docs/image/import.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
