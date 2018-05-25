@@ -28,6 +28,7 @@ sidebar:
     project_test: 测试规范
     project_git_commit: Git 规范
     project_mobile: 移动 H5
+    project_compatibility: 浏览器兼容性
     html: HTML 规范
     html_code: 代码规范
     html_note: 注释规范

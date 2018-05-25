@@ -88,6 +88,26 @@ function genPagination(page = DefaultPage) {
 
 PS. 切记为 table 设置 rowKey，一是性能上的考虑，另外也能避免一些情况下的样式错位问题（想想为什么？）
 
+### 数据缓存
+
+数据缓存的场景为：
+
+> 列表 => 详情页 => 返回列表（列表数据不刷新，用缓存）
+
+为此，在 reducer 的 router 中自动记录的前向路由 `state.router.pre`
+
+那在列表页中的数据初始化方法里，可以参考以下写法实现：
+
+```javascript
+const { dispatch, list, preRouter } = this.props
+if (isEmpty(list) || !(preRouter && preRouter.startsWith(urls.<XXX>))) {
+  dispatch(getXXXList(<init filter: { pageSize: 10, currentPage: 1 }>))
+}
+```
+
+代码 `preRouter.startsWith(urls.SPORT_ROOM)` 这里的判断依据是根据路由规则，详情页的路由基本上都是和列表页的路由存在层次关系。
+
+
 ## 最小权限
 
 对于操作类页面，遵循最小权限原则，有以下场景：

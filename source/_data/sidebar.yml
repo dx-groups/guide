@@ -6,6 +6,7 @@ docs:
     project_test: project/test.html
     project_git_commit: project/git_commit.html
     project_mobile: project/mobile.html
+    project_compatibility: project/compatibility.html
   html:
     html_code: html/code.html
     html_note: html/note.html
