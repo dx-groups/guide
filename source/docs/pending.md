@@ -6,37 +6,14 @@ title: 待办
 
 ## 基础框架
 
-- Arthur 框架 - 徐宝石
+- arthur 框架 - 徐宝石
 
-- cli 工具
+- 最佳实践模板 + cli 工具 - 葛伟敏
 
-- 构建工具
+- athena 开发工具
 
   - postcss 插件，postcss-plugin-px2rem 添加 dpx，rpx 单位支持 - 孙小海
-
-    `dpx` (dpr px) 这个单位, 按照 dpr 来放大 1*px, 2*px, 3*px 大小的字体，再按照屏幕dpr缩小, 这样就达到了字体不缩放, 各种屏幕的字体看起来都差不多,也与屏幕宽度无关。
-
-    `rpx` (real px), 来表示物理像素
-
-    ```css
-    css
-      .cls {
-            width: 75px;
-            font-size: 12dpx
-            border: 1rpx
-      }
-
-    ===> 转换为
-
-    css
-      .cls {
-          width: 2rem;
-          border: 1px;
-      }
-      [data-dpr="1"] .cls { font-size: 12px }
-      [data-dpr="2"] .cls { font-size: 24px }
-      [data-dpr="3"] .cls { font-size: 36px }
-    ```
+  - Mock server (xiaoyaoji-mock-server) - 徐宝石
 
 - workspace 参考 Iceworks
 
@@ -44,10 +21,12 @@ title: 待办
 
 - PWA, service worker, app shell, LAVAS - 王玉龙
 
-- 菜单的优化，现有的菜单配置方式过于固化，是否有更为灵活的方案？
+- ~~菜单的优化，现有的菜单配置方式过于固化，是否有更为灵活的方案？~~
 
-- 测试方案
+- 测试方案 - 徐宝石/王玉龙
 
 - 浏览器路由，vue-router 替换
 
-- 移动端适配方案
+- 移动端模板 + 规范 - 郁孝华
+
+- UI 规范
