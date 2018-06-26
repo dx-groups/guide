@@ -4,7 +4,7 @@ description: "Best Guidelines For Front-End Developer."
 author: 大象集团信息技术部
 language: zh-cn
 timezone: UTC
-url: https://elephant-fe.github.io/guide/
+url: https://dx-groups.github.io/guide/
 root: /guide/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -19,7 +19,7 @@ per_page: 0
 theme: navy
 deploy:
   type: git
-  repo: git@github.com:elephant-fe/guide.git
+  repo: git@github.com:dx-groups/guide.git
   branch: gh-pages
 
 disqus_shortname:
@@ -28,7 +28,7 @@ disqus_shortname:
 # fb_admins: 100000247608790
 # swiftype_key: nxhXzi1rDss_9_P_6zBa
 # twitter: o2circle
-github: elephant-fe/guide
+github: dx-groups/guide
 gh:
-  user: elephant-fe
+  user: dx-groups
   repo: guide

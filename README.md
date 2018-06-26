@@ -9,7 +9,7 @@ Guidelines For Front-End Developers.
 Install dependencies:
 
 ``` bash
-$ git clone https://github.com/elephant-fe/guide
+$ git clone https://github.com/dx-groups/guide
 $ cd guide
 $ npm install
 $ npm start

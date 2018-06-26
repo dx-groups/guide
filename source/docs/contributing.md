@@ -2,7 +2,7 @@ title: 贡献
 ---
 ## 完善
 
-[大象集团信息技术部](http://elephant-fe) 的宗旨是 `面向开放 - Open Oriented`，所以十分欢迎大家一起参与完善我们的`全栈MAC装机指南`。本文档将帮助大家了解参与的具体过程。
+[大象集团信息技术部](http://dx-groups) 的宗旨是 `面向开放 - Open Oriented`，所以十分欢迎大家一起参与完善我们的`全栈MAC装机指南`。本文档将帮助大家了解参与的具体过程。
 
 ### 开始之前
 
@@ -14,7 +14,7 @@ npm i -g hexo-cli
 
 ### 如何做？
 
-1. Fork 源码[elephant-fe/mac].
+1. Fork 源码[dx-groups/mac].
 2. 克隆Fork后的仓库至你的电脑，安装依赖包。
 
     {% code %}
@@ -55,9 +55,9 @@ npm i -g hexo-cli
 
 ## 问题反馈
 
-在使用`全栈MAC装机指南`过程中碰到任何问题，可以到 [GitHub](https://github.com/elephant-fe/mac/issues) 上留言提问。
+在使用`全栈MAC装机指南`过程中碰到任何问题，可以到 [GitHub](https://github.com/dx-groups/mac/issues) 上留言提问。
 
-[elephant-fe/mac]: https://github.com/elephant-fe/mac
+[dx-groups/mac]: https://github.com/dx-groups/mac
 
 ## 贡献者
 

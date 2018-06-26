@@ -1,11 +1,11 @@
 title: 概述
 ---
-欢迎使用`团队规范`，使用过程中如碰到问题，请到[Github](https://github.com/elephant-fe/guide/issues)进行提问。
+欢迎使用`团队规范`，使用过程中如碰到问题，请到[Github](https://github.com/dx-groups/guide/issues)进行提问。
 
 
 ## 关于
 
-`团队规范` 是由 [大象集团信息技术部](http://elephant-fe) 整理的，基于 [W3C](http://www.w3.org/)、[苹果开发者](https://developer.apple.com/) 等官方文档，并结合团队日常业务需求以及团队在日常开发过程中总结提炼出的经验而制定。
+`团队规范` 是由 [大象集团信息技术部](http://dx-groups) 整理的，基于 [W3C](http://www.w3.org/)、[苹果开发者](https://developer.apple.com/) 等官方文档，并结合团队日常业务需求以及团队在日常开发过程中总结提炼出的经验而制定。
 
 旨在增强团队开发协作、提高代码质量和打造开发基石的编码规范，
 
