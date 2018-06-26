@@ -3,9 +3,9 @@
   <title><![CDATA[elephant - 团队规范]]></title>
   <subtitle><![CDATA[Team Guidelines]]></subtitle>
   <link href="/guide/atom.xml" rel="self"/>
-  <link href="https://elephant-fe.github.io/guide/"/>
+  <link href="https://dx-groups.github.io/guide/"/>
   <updated>2018-04-27T07:04:46.000Z</updated>
-  <id>https://elephant-fe.github.io/guide/</id>
+  <id>https://dx-groups.github.io/guide/</id>
   
   <author>
     <name><![CDATA[大象集团信息技术部]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[L0 - 前端技术概览]]></title>
-    <link href="https://elephant-fe.github.io/guide/news/2018/04/27/share-about-frontend/"/>
-    <id>https://elephant-fe.github.io/guide/news/2018/04/27/share-about-frontend/</id>
+    <link href="https://dx-groups.github.io/guide/news/2018/04/27/share-about-frontend/"/>
+    <id>https://dx-groups.github.io/guide/news/2018/04/27/share-about-frontend/</id>
     <published>2018-04-27T00:00:00.000Z</published>
     <updated>2018-04-27T07:04:46.000Z</updated>
     <content type="html"><![CDATA[<p>根据主题循序渐进如下</p>
@@ -45,8 +45,8 @@
   
   <entry>
     <title><![CDATA[团队博客开张迎客]]></title>
-    <link href="https://elephant-fe.github.io/guide/news/2018/02/01/first-released/"/>
-    <id>https://elephant-fe.github.io/guide/news/2018/02/01/first-released/</id>
+    <link href="https://dx-groups.github.io/guide/news/2018/02/01/first-released/"/>
+    <id>https://dx-groups.github.io/guide/news/2018/02/01/first-released/</id>
     <published>2018-02-01T00:00:00.000Z</published>
     <updated>2018-02-05T06:17:27.000Z</updated>
     <content type="html"><![CDATA[<p>大象集团信息技术部博客开张。</p>
