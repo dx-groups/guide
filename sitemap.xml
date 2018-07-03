@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dx-groups.github.io/guide/docs/refer/env.html</loc>
+    <lastmod>2018-07-03T09:39:27.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dx-groups.github.io/guide/docs/refer/entry.html</loc>
     <lastmod>2018-06-28T08:27:26.000Z</lastmod>
   </url>
@@ -77,7 +82,7 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/name/file.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/name/htmlcss.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -87,17 +92,17 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/js/language.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dx-groups.github.io/guide/docs/refer/env.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dx-groups.github.io/guide/news/2018/02/01/first-released/</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dx-groups.github.io/guide/docs/refer/git.html</loc>
+    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dx-groups.github.io/guide/docs/name/file.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -107,17 +112,12 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/refer/markdown.html</loc>
-    <lastmod>2018-02-05T06:17:27.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dx-groups.github.io/guide/docs/html/jdc_fd_web_final_2.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/name/htmlcss.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/js/language.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -127,7 +127,7 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/refer/git.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/refer/markdown.html</loc>
     <lastmod>2018-02-05T06:17:27.000Z</lastmod>
   </url>
   
@@ -142,12 +142,7 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/image/quality.html</loc>
-    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dx-groups.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/html/note.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -163,6 +158,11 @@
   
   <url>
     <loc>https://dx-groups.github.io/guide/docs/image/jdc_fd_guide_image.html</loc>
+    <lastmod>2018-01-31T06:54:38.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dx-groups.github.io/guide/docs/image/import.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -187,7 +187,7 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/image/import.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/image/format.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -202,7 +202,7 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/image/format.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/issues.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -212,7 +212,7 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/issues.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://dx-groups.github.io/guide/docs/html/note.html</loc>
+    <loc>https://dx-groups.github.io/guide/docs/image/quality.html</loc>
     <lastmod>2018-01-31T06:54:38.000Z</lastmod>
   </url>
   
