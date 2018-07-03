@@ -103,6 +103,7 @@ $ yum install nginx
 
 # 启动|关闭|重启
 $ service nginx start|stop|restart
+$ systemctl start|stop|restart nginx.service
 ```
 
 ### Mac
@@ -123,6 +124,7 @@ $ sudo nginx -t
 
 # 配置
 /usr/local/etc/nginx/nginx.conf
+/etc/nginx/nginx.conf
 ```
 
 ### SPA 路由
@@ -177,7 +179,7 @@ gzip_vary           on;
 ```shell
 location /project {
   proxy_pass   http://127.0.0.1:8080/project;
-}  
+}
 ```
 
 通过浏览器访问http://127.0.0.1/project时，浏览器的cookie内有jsessionid。再次访问时，浏览器会发送当前的cookie。
